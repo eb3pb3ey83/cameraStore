@@ -51,6 +51,7 @@
 		transform: translateX(-250px);
 		transition: .3s;
 		z-index: 2;
+		overflow: auto;
 	}
 	#menu_logo {
 		background: #fff;
