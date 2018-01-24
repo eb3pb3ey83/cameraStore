@@ -262,6 +262,7 @@
 		#menu {
 			transform: translateX(0px);
 			position: static;
+			width: 100%;
 			height: auto;	
 			padding: 20px 0; 
 			background: transparent;
